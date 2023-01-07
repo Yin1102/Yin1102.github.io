@@ -64,7 +64,7 @@ body{
    position: absolute;
    top: 50%; left: 50%;
    transform: translate(-50%,-50%);
-   margin-top: 600px;
+   margin-top: 70px;
 
   }
   
@@ -242,9 +242,10 @@ hr{
   grid-row: 1/2;
 }
 .name{
-  grid-column: 1/6;
+  grid-column: 1/7;
   grid-row:2/3;
   float: left;
+  margin-right: 54px;
 }
 .mail{
   grid-column: 1/6;
