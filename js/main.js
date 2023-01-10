@@ -39,8 +39,8 @@ $(document).ready(function() {
             text: "",
             icon: 'warning',
             showCancelButton: true,
-            confirmButtonColor: '#3085d6',
-            cancelButtonColor: '#d33',
+            confirmButtonColor: '#625941',
+            cancelButtonColor: '#525252',
             confirmButtonText: '刪除',
             cancelButtonText: "取消",
           }).then((result) => {
@@ -66,8 +66,8 @@ $(document).ready(function() {
             text: "",
             icon: 'warning',
             showCancelButton: true,
-            confirmButtonColor: '#3085d6',
-            cancelButtonColor: '#d33',
+            confirmButtonColor: '#625941',
+            cancelButtonColor: '#525252',
             confirmButtonText: '刪除',
             cancelButtonText: "取消",
           }).then((result) => {
